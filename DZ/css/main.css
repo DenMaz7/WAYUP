@@ -9,10 +9,10 @@ div, p, input, button, form, span, a, ul, li {
 	box-sizing: border-box;
 }
 
-h1, h2, h3, h4, h5, h6, button{
+h1, h2, h3, h4, h5, h6,{
 	margin: 0;
-	font-family: 'Montserrat', sans-serif;
-	font-weight: 900;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 700;
 }
 p {
 	line-height: 1.65em;
@@ -116,6 +116,8 @@ p {
 }
 
 .input {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400;
 	width: 289px;
 	border: 1px solid #bfb8d1;
 	font-size: 15px;
