@@ -127,8 +127,9 @@ p {
 	margin-left: auto;
  	margin-right: auto
 	margin-bottom: 15px;
-	display: flex;
-	justify-content: space-between;
+	display: block;
+	margin-left: auto;
+ 	margin-right: auto
 }
 .btn-form{
 	width: 474px;
